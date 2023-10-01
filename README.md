@@ -1,1 +1,1 @@
-## new Machine learning project
+## New Machine learning project
